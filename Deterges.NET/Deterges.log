@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpgradeLog>
+    <Settings>
+        <Setting
+            Name = "LogFile"
+            Value = "Deterges.log"
+        />
+        <Setting
+            Name = "GenerateInterfacesForClasses"
+            Value = "FALSE"
+        />
+        <Setting
+            Name = "ProjectName"
+            Value = "Deterges"
+        />
+        <Setting
+            Name = "OutputName"
+            Value = "Deterges.vbproj"
+        />
+        <Setting
+            Name = "OutputDir"
+            Value = "D:\Мои документы\Мои проекты\Visual Basic\Deterges\Deterges.NET"
+        />
+        <Setting
+            Name = "ProjectPath"
+            Value = "D:\Мои документы\Мои проекты\Visual Basic\Deterges\Deterges.vbp"
+        />
+        <Setting
+            Name = "MigrateProjectTo"
+            Value = "0"
+        />
+    </Settings>
+    <File
+        OldPath = "D:\Мои документы\Мои проекты\Visual Basic\Deterges\frmMain.frm"
+        NewPath = "D:\Мои документы\Мои проекты\Visual Basic\Deterges\Deterges.NET\frmMain.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "(Макет)" >
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "Command1"
+                ObjectType = "CommandButton"
+                PME = "DisabledPicture"
+            >CommandButton свойство Command1.DisabledPicture не был обновлен.</Issue>
+        </Section>
+        <Section Name = "Command1_Click" >
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта datTek.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта kar.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта d.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта m.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта y.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта yxi.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1041"
+            >&amp;quot;Mod&amp;quot; имеет новое поведение.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта dataInp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта datInp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта msm.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта dtIn.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта yx.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ky.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта kyf.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта kkr.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ymx.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта dataR.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта kdy.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта kd.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ku.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ky1.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ky2.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ky3.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ky4.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта kyO1.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта kyO2.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта kyO3.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта kyO4.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта kr.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ms.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта dtInp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ttl.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта conf.</Issue>
+        </Section>
+        <Section Name = "ShowError1" >
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ms.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ttl.</Issue>
+        </Section>
+        <Section Name = "ShowError2" >
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ms.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта msm.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ttl.</Issue>
+        </Section>
+        <Section Name = "ShowError3" >
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ms.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта msm.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ttl.</Issue>
+        </Section>
+        <Section Name = "ShowError4" >
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ms.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ttl.</Issue>
+        </Section>
+        <Section Name = "ShowError5" >
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ms.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ttl.</Issue>
+        </Section>
+        <Section Name = "ShowErrorKar" >
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ms.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта ttl.</Issue>
+        </Section>
+        <Section Name = "Form_Unload" >
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта conf.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "2065"
+                ObjectName = "frmMain"
+                ObjectType = "Form"
+                PME = "Unload"
+            >Form событие frmMain.Unload имеет новое поведение.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "D:\Мои документы\Мои проекты\Visual Basic\Deterges\Module1.bas"
+        NewPath = "D:\Мои документы\Мои проекты\Visual Basic\Deterges\Deterges.NET\Module1.vb"
+        FileType = "Module"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "D:\Мои документы\Мои проекты\Visual Basic\Deterges\frmSet.frm"
+        NewPath = "D:\Мои документы\Мои проекты\Visual Basic\Deterges\Deterges.NET\frmSet.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "btnOk_Click" >
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта conf.</Issue>
+        </Section>
+        <Section Name = "chcData_Click" >
+            <Issue
+                Type = "Runtime"
+                Number = "2075"
+            >Событие chcData.CheckStateChanged может появиться при инициализации формы.</Issue>
+        </Section>
+        <Section Name = "Form_Unload" >
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта conf.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "2065"
+                ObjectName = "frmSet"
+                ObjectType = "Form"
+                PME = "Unload"
+            >Form событие frmSet.Unload имеет новое поведение.</Issue>
+        </Section>
+        <Section Name = "txtSetKar_Change" >
+            <Issue
+                Type = "Runtime"
+                Number = "2075"
+            >Событие txtSetKar.TextChanged может появиться при инициализации формы.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "D:\Мои документы\Мои проекты\Visual Basic\Deterges\frmAbout.frm"
+        NewPath = "D:\Мои документы\Мои проекты\Visual Basic\Deterges\Deterges.NET\frmAbout.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "(Макет)" >
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "frmAbout"
+                ObjectType = "Form"
+                PME = "ClipControls"
+            >Form свойство frmAbout.ClipControls не был обновлен.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "frmAbout"
+                ObjectType = "Form"
+                PME = "ScaleHeight"
+            >Form свойство frmAbout.ScaleHeight не был обновлен.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2038"
+                ObjectName = "frmAbout"
+                ObjectType = "Form"
+                PME = "ScaleMode"
+            >Свойство frmAbout.ScaleMode для Form не поддерживается.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "frmAbout"
+                ObjectType = "Form"
+                PME = "ScaleWidth"
+            >Form свойство frmAbout.ScaleWidth не был обновлен.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "picIcon"
+                ObjectType = "PictureBox"
+                PME = "ClipControls"
+            >PictureBox свойство picIcon.ClipControls не был обновлен.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "picIcon"
+                ObjectType = "PictureBox"
+                PME = "ScaleHeight"
+            >PictureBox свойство picIcon.ScaleHeight не был обновлен.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "picIcon"
+                ObjectType = "PictureBox"
+                PME = "ScaleMode"
+            >PictureBox свойство picIcon.ScaleMode не был обновлен.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "picIcon"
+                ObjectType = "PictureBox"
+                PME = "ScaleWidth"
+            >PictureBox свойство picIcon.ScaleWidth не был обновлен.</Issue>
+        </Section>
+        <Section Name = "Form_Load" >
+            <Issue
+                Type = "Compile"
+                Number = "2069"
+                ObjectName = "App"
+                ObjectType = "App"
+                PME = "Revision"
+            >App свойство App.Revision не был обновлен.</Issue>
+        </Section>
+        <Section Name = "StartSysInfo" >
+            <Issue
+                Type = "Runtime"
+                Number = "1041"
+                PME = "Dir"
+            >&amp;quot;Dir&amp;quot; имеет новое поведение.</Issue>
+        </Section>
+        <Section Name = "Form_Unload" >
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Не удается разрешить свойство по умолчанию объекта conf.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "2065"
+                ObjectName = "frmAbout"
+                ObjectType = "Form"
+                PME = "Unload"
+            >Form событие frmAbout.Unload имеет новое поведение.</Issue>
+        </Section>
+    </File>
+</UpgradeLog>
+
